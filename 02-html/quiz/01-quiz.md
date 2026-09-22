@@ -1,9 +1,14 @@
 # Quiz — HTML
 
-1. Quel problème cette technologie résout-elle ?
-2. Quelle erreur est fréquente ?
-3. Comment testerais-tu une fonctionnalité inattendue ?
-4. Que pourrais-tu simplifier ?
+1. Différence entre structure et présentation ?
+2. À quoi sert `main` ?
+3. Pourquoi associer `label` et champ ?
+4. À quoi sert `alt` ?
+5. Pourquoi ne pas utiliser `div` partout ?
+6. Pourquoi la validation client ne suffit-elle pas ?
+7. Comment diagnostiquer un lien cassé ?
+8. Donne une structure sémantique pour un article.
+9. Comment tester un formulaire sans serveur réel ?
+10. Donne deux risques d'accessibilité d'une page générique.
 
-## Prédiction
-Prédis le résultat avant chaque test.
+Écris tes réponses avant de consulter la correction.

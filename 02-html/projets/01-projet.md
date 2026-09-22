@@ -1,10 +1,17 @@
 # Projet — Portfolio HTML accessible
 
-## Objectif
-Construire page profil dans une version propre et présentable.
+**Difficulté :** 🟠 Autonomie
 
-## Livrables
-Fonctionnalité complète, structure lisible, validation, cas limites, README et démonstration.
+Créer la première version structurée d'un portfolio personnel.
 
-## Validation
-Être capable d'expliquer chaque choix et de reconstruire une partie du projet sans tutoriel.
+Pages : accueil, projets, à propos, contact.
+
+Exigences : navigation cohérente, titres structurés, médias correctement décrits, formulaire accessible, métadonnées de base et liens testés.
+
+## Definition of Done
+- [ ] structure sémantique validée
+- [ ] parcours clavier testé
+- [ ] liens testés
+- [ ] formulaire vérifié
+- [ ] README écrit
+- [ ] choix importants expliqués oralement
