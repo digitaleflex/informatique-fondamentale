@@ -1,35 +1,37 @@
 # Roadmap pédagogique
 
-## Phase 1 — Fondations
-- [ ] Niveau 00 — Orientation informatique
-- [ ] Niveau 01 — Logique & algorithmique
+## Phase 1 — Fondamentaux
+- [x] 00 Orientation
+- [x] 01 Logique & algorithmique
 
-## Phase 2 — Web statique
-- [ ] Niveau 02 — HTML
-- [ ] Niveau 03 — CSS
+## Phase 2 — Web
+- [x] 02 HTML
+- [x] 03 CSS
+- [x] 04 JavaScript
+- [x] 05 DOM
+- [x] 06 Git & GitHub
 
-## Phase 3 — Programmation navigateur
-- [ ] Niveau 04 — JavaScript
-- [ ] Niveau 05 — DOM & navigateur
+## Phase 3 — JavaScript professionnel
+- [x] 07 JavaScript moderne
+- [x] 08 TypeScript
+- [x] 09 React
+- [x] 10 Next.js
 
-## Phase 4 — Workflow professionnel
-- [ ] Niveau 06 — Git & GitHub
-- [ ] Niveau 07 — JavaScript moderne & APIs
+## Phase 4 — Full-Stack
+- [x] 11 Backend
+- [x] 12 PostgreSQL
+- [x] 13 Prisma
+- [x] 14 Authentification
+- [x] 15 Testing
+- [x] 16 Déploiement
 
-## Phase 5 — Frontend moderne
-- [ ] Niveau 08 — TypeScript
-- [ ] Niveau 09 — React
-- [ ] Niveau 10 — Next.js
+## Phase 5 — Projets
 
-## Phase 6 — Backend & données
-- [ ] Niveau 11 — Backend & APIs
-- [ ] Niveau 12 — PostgreSQL
-- [ ] Niveau 13 — Prisma & modélisation
+- [ ] Projets guidés spécialisés
+- [ ] Projet Full-Stack intermédiaire
+- [ ] Projet final TaskFlow
+- [ ] Portfolio de réalisations
 
-## Phase 7 — Production
-- [ ] Niveau 14 — Authentification & sécurité
-- [ ] Niveau 15 — Tests & qualité
-- [ ] Niveau 16 — Déploiement
+## Critère de progression
 
-## Phase 8 — Capstone
-- [ ] Niveau 99 — Projet final Full-Stack
+Un niveau n'est pas considéré comme acquis parce que le contenu a été lu. Il est acquis lorsque l'apprenant peut expliquer, pratiquer, déboguer et réutiliser les notions dans un problème nouveau.

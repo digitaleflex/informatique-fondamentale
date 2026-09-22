@@ -1,8 +1,17 @@
 # Changelog
 
-## Unreleased
+## 2026-09-22
 
-- Initialisation du repository.
-- Création de l'architecture pédagogique.
-- Création des niveaux 00 et 01.
-- Ajout des premiers exercices, challenges et projets.
+### Ajouté
+- cadre pédagogique ;
+- templates de cours, exercices, corrections, debugging, quiz et assessments ;
+- progression et carnet d'apprentissage ;
+- schémas pédagogiques ;
+- niveaux 02 à 16 ;
+- projets, challenges et évaluations pour le parcours Web → Full-Stack ;
+- glossaire fondamental ;
+- structure de projets transversaux.
+
+### Architecture pédagogique
+
+Cours → Schéma → Exercice → Correction → Debugging → Challenge → Projet → Assessment.
