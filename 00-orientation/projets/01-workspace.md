@@ -1,14 +1,18 @@
-# Projet 01 — Mon premier espace de développement
+# Projet — Mon espace de travail
 
-Créer :
+## Mission
+Construire un environnement propre pour apprendre le développement web.
 
-workspace/
-├── cours/
-├── exercices/
-├── projets/
-├── ressources/
-└── README.md
+## Livrables
+- structure de dossiers ;
+- terminal fonctionnel ;
+- éditeur de code ;
+- navigateur moderne ;
+- dépôt Git local prêt ;
+- README personnel expliquant l'environnement.
 
-Le README explique le rôle de chaque dossier.
+## Critères
+Reproductible, compréhensible, organisé et expliqué avec ses propres mots.
 
-Critère de réussite : pouvoir reconstruire la structure depuis zéro.
+## Validation
+Être capable d'expliquer le rôle de chaque outil sans lire ses notes.
